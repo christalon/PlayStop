@@ -1,0 +1,1 @@
+2018-03-11 23:29:20 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'playstop_db' in C:\xampp\htdocs\playstop\system\library\db\mysqli.php on line 7
